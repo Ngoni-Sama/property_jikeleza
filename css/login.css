@@ -1,0 +1,5 @@
+body.login div#login h1 a {
+    background-position: center center!important;
+    background-size: initial!important;
+    width: 100%!important;
+}

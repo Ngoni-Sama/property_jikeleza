@@ -1,40 +1,53 @@
 <?php
-require 'core/init.php';
-$general->logged_out_protect();
+// Index Page
+// Wp Estate Pack
+get_header();
+if(isset( $post->ID)){
+    $post_id = $post->ID;
+}else{
+    $post_id = '';
+}
 
-//$id   = htmlentities($user['id']); // storing the user's username after clearning for any html tags. 
-
-$view_admin = $admin->admin_data($admin_id);
-
+$wpestate_options   =   wpestate_page_details($post_id);
+$blog_unit          =   esc_html ( wpresidence_get_option('wp_estate_blog_unit','') ); 
 ?>
-<!DOCTYPE html>
-<html>
-<head>
-    <title></title>
-</head>
-<body>
 
-<h1>Welcome</h1>
-<?php foreach ($view_admin as $row) { ?>
-<label>Username: </label>
-<?php echo $row['username']; ?>
-<?php } ?>
+<div id="post" <?php post_class('row');?>>
+    <?php get_template_part('templates/breadcrumbs'); ?>
+    <div class=" col-xs-12  <?php print esc_html($wpestate_options['content_class']);?> ">
+        <?php get_template_part('templates/ajax_container'); ?>  
+        <div class="single-content blog_list_wrapper">
 
-<p>What do you want to do ?</p>
-<ol>
-    <li><a href="logout.php">Logout</a></li>
-	<br>
-	<li><a href="addAdmin.php">Add admin</a></li>
-	<li><a href="viewAdmin.php">View admin</a></li>
-	<br>
-	<li><a href="addProvince.php">Add province</a></li>
-	<br>
-	<li><a href="addCity.php">Add city</a></li>
-	<br>
-	<li><a href="addSuburb.php">Add suburb</a></li>
-</ol>
+        <?php
+        $paged = (get_query_var('paged')) ? get_query_var('paged') : 0;
+        $args = array(
+            'post_type'     => 'post',
+            'post_status'   => 'publish',
+            'paged'         => $paged,
+        );
 
-<h1></h1>
+        $blog_selection = new WP_Query($args);
+        if($blog_selection->have_posts()){
+            while ($blog_selection->have_posts()): $blog_selection->the_post();
+                if($blog_unit=='list'){
+                     include( locate_template('templates/blog_unit.php') ) ;
+                }else{
+                     include( locate_template('templates/blog_unit2.php') ) ;
+                }      
+            endwhile;
+            wp_reset_query();
+        }else{
+            print '<h3 class="noposts">'.esc_html__('There are no posts published!','wpresidence').'</h3>';
+        }
+       
+        ?>
 
-</body>
-</html>
+         
+        </div><!-- single content-->
+         <?php wpestate_pagination($blog_selection->max_num_pages, $range = 2); ?>  
+    </div><!-- end 9col container-->
+    
+<?php  include get_theme_file_path('sidebar.php'); ?>
+</div>   
+
+<?php get_footer(); ?>

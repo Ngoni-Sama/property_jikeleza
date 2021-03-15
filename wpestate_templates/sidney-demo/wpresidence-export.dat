@@ -1,0 +1,214 @@
+a:4:{s:8:"template";s:11:"wpresidence";s:4:"mods";a:4:{i:0;b:0;s:18:"nav_menu_locations";a:3:{s:11:"footer_menu";i:100;s:7:"primary";i:101;s:6:"mobile";i:101;}s:18:"custom_css_post_id";i:-1;s:16:"sidebars_widgets";a:2:{s:4:"time";i:1517987818;s:4:"data";a:16:{s:19:"wp_inactive_widgets";a:0:{}s:19:"primary-widget-area";a:4:{i:0;s:24:"advanced_search_widget-1";i:1;s:14:"login_widget-1";i:2;s:15:"social_widget-2";i:3;s:21:"property_categories-3";}s:21:"secondary-widget-area";a:3:{i:0;s:24:"advanced_search_widget-2";i:1;s:22:"footer_latest_widget-4";i:2;s:21:"property_categories-2";}s:24:"first-footer-widget-area";a:2:{i:0;s:7:"text-24";i:1;s:15:"social_widget-1";}s:25:"second-footer-widget-area";a:1:{i:0;s:16:"contact_widget-1";}s:24:"third-footer-widget-area";a:2:{i:0;s:7:"text-10";i:1;s:22:"footer_latest_widget-6";}s:25:"fourth-footer-widget-area";a:1:{i:0;s:22:"footer_latest_widget-2";}s:24:"top-bar-left-widget-area";a:2:{i:0;s:7:"text-11";i:1;s:26:"multiple_currency_widget-1";}s:25:"top-bar-right-widget-area";a:1:{i:0;s:19:"social_widget_top-2";}s:31:"sidebar-menu-widget-area-before";a:1:{i:0;s:6:"text-9";}s:30:"sidebar-menu-widget-area-after";a:0:{}s:19:"header4-widget-area";a:0:{}s:34:"dashboard-top-bar-left-widget-area";a:0:{}s:35:"dashboard-top-bar-right-widget-area";a:0:{}s:36:"splash-page_bottom-right-widget-area";a:0:{}s:35:"splash-page_bottom-left-widget-area";a:0:{}}}}s:7:"options";a:248:{s:9:"site_icon";s:1:"0";s:23:"nav_menus_created_posts";a:0:{}s:27:"wp_estate_show_reviews_prop";s:3:"yes";s:28:"wp_estate_enable_direct_mess";s:3:"yes";s:32:"wp_estate_admin_approves_reviews";s:3:"yes";s:29:"wp_estate_theme_slider_height";s:3:"600";s:23:"wp_estate_sticky_search";s:2:"no";s:26:"wp_estate_use_geo_location";s:3:"yes";s:28:"wp_estate_geo_radius_measure";s:5:"miles";s:24:"wp_estate_initial_radius";s:2:"12";s:24:"wp_estate_min_geo_radius";s:1:"1";s:24:"wp_estate_max_geo_radius";s:2:"50";s:24:"wp_estate_paralax_header";s:3:"yes";s:18:"wp_estate_keep_max";s:2:"no";s:25:"wp_estate_search_on_start";s:2:"no";s:31:"wp_estate_use_float_search_form";s:3:"yes";s:24:"wp_estate_float_form_top";s:3:"70%";s:28:"wp_estate_float_form_top_tax";s:3:"70%";s:24:"wp_estate_use_price_pins";s:2:"no";s:35:"wp_estate_use_price_pins_full_price";s:2:"no";s:30:"wp_estate_use_single_image_pin";s:2:"no";s:30:"wp_estate_crop_images_lightbox";s:3:"yes";s:31:"wp_estate_show_lightbox_contact";s:2:"no";s:32:"wp_estate_submission_page_fields";a:65:{i:0;s:20:"wpestate_description";i:1;s:14:"property_price";i:2;s:14:"property_label";i:3;s:21:"property_label_before";i:4;s:13:"prop_category";i:5;s:20:"prop_action_category";i:6;s:8:"attachid";i:7;s:16:"property_address";i:8;s:13:"property_city";i:9;s:13:"property_area";i:10;s:12:"property_zip";i:11;s:15:"property_county";i:12;s:16:"property_country";i:13;s:12:"property_map";i:14;s:17:"property_latitude";i:15;s:18:"property_longitude";i:16;s:19:"google_camera_angle";i:17;s:20:"property_google_view";i:18;s:13:"property_size";i:19;s:17:"property_lot_size";i:20;s:14:"property_rooms";i:21;s:17:"property_bedrooms";i:22;s:18:"property_bathrooms";i:23;s:11:"owner_notes";i:24;s:15:"property_status";i:25;s:14:"embed_video_id";i:26;s:16:"embed_video_type";i:27;s:18:"embed_virtual_tour";i:28;s:22:"property_subunits_list";i:29;s:3:"MLS";i:30;s:13:"property_year";i:31;s:15:"property_garage";i:32;s:20:"property_garage_size";i:33;s:13:"property_date";i:34;s:17:"property_basement";i:35;s:30:"property_external_construction";i:36;s:17:"Exterior_Material";i:37;s:16:"property_roofing";i:38;s:14:"Structure_Type";i:39;s:14:"stories_number";i:40;s:5:"attic";i:41;s:8:"gas_heat";i:42;s:10:"ocean_view";i:43;s:11:"wine_cellar";i:44;s:16:"basketball_court";i:45;s:3:"gym";i:46;s:5:"pound";i:47;s:9:"fireplace";i:48;s:9:"lake_view";i:49;s:4:"pool";i:50;s:9:"back_yard";i:51;s:10:"front_yard";i:52;s:11:"fenced_yard";i:53;s:10:"sprinklers";i:54;s:16:"washer_and_dryer";i:55;s:4:"deck";i:56;s:7:"balcony";i:57;s:7:"laundry";i:58;s:9:"concierge";i:59;s:7:"doorman";i:60;s:13:"private_space";i:61;s:7:"storage";i:62;s:10:"recreation";i:63;s:9:"Roof_Deck";i:64;s:8:"internet";}s:31:"wp_estate_mandatory_page_fields";a:4:{i:0;s:20:"wpestate_description";i:1;s:8:"attachid";i:2;s:17:"property_latitude";i:3;s:18:"property_longitude";}s:22:"wp_estate_url_rewrites";a:12:{i:0;s:10:"properties";i:1;s:8:"listings";i:2;s:6:"action";i:3;s:4:"city";i:4;s:4:"area";i:5;s:5:"state";i:6;s:6:"agents";i:7;s:14:"agent_listings";i:8;s:12:"agent-action";i:9;s:10:"agent-city";i:10;s:10:"agent-area";i:11;s:11:"agent-state";}s:26:"wp_estate_print_show_agent";s:3:"yes";s:32:"wp_estate_print_show_description";s:3:"yes";s:27:"wp_estate_print_show_adress";s:3:"yes";s:28:"wp_estate_print_show_details";s:3:"yes";s:29:"wp_estate_print_show_features";s:3:"yes";s:32:"wp_estate_print_show_floor_plans";s:3:"yes";s:27:"wp_estate_print_show_images";s:3:"yes";s:31:"wp_estate_show_header_dashboard";s:3:"yes";s:27:"wp_estate_theme_slider_type";s:5:"type1";s:23:"wp_estate_adv6_taxonomy";s:24:"property_action_category";s:29:"wp_estate_adv6_taxonomy_terms";a:2:{i:0;s:2:"38";i:1;s:2:"35";}s:24:"wp_estate_adv6_max_price";a:2:{i:0;s:0:"";i:1;s:0:"";}s:24:"wp_estate_adv6_min_price";a:2:{i:0;s:0:"";i:1;s:0:"";}s:30:"wp_estate_adv_search_fields_no";s:1:"6";s:34:"wp_estate_search_fields_no_per_row";s:1:"4";s:26:"wp_estate_property_sidebar";s:10:"no sidebar";s:31:"wp_estate_property_sidebar_name";s:19:"primary-widget-area";s:26:"wp_estate_show_breadcrumbs";s:3:"yes";s:22:"wp_estate_p_fontfamily";s:6:"Roboto";s:23:"wp_estate_h1_fontfamily";s:6:"Roboto";s:23:"wp_estate_h2_fontfamily";s:6:"Roboto";s:23:"wp_estate_h3_fontfamily";s:6:"Roboto";s:23:"wp_estate_h4_fontfamily";s:6:"Roboto";s:23:"wp_estate_h5_fontfamily";s:6:"Roboto";s:23:"wp_estate_h6_fontfamily";s:6:"Roboto";s:25:"wp_estate_menu_fontfamily";s:6:"Roboto";s:32:"wp_estate_transparent_logo_image";s:79:"https://sydney.wpresidence.net/wp-content/uploads/2018/06/logo2018-v1-sid-3.png";s:27:"wp_estate_stikcy_logo_image";s:85:"https://sydney.wpresidence.net/wp-content/uploads/2018/06/logo2018-v1-sid_stick-1.png";s:20:"wp_estate_logo_image";s:85:"https://sydney.wpresidence.net/wp-content/uploads/2018/06/logo2018-v1-sid_stick-1.png";s:42:"wp_estate_sidebar_heading_background_color";s:6:"edefea";s:43:"wp_estate_transparent_menu_hover_font_color";s:6:"4BB3F4";s:37:"wp_estate_transparent_menu_font_color";s:6:"ffffff";s:40:"wp_estate_top_menu_hover_back_font_color";s:6:"4BB3F4";s:29:"wp_estate_top_menu_hover_type";s:1:"1";s:35:"wp_estate_top_menu_hover_font_color";s:6:"4BB3F4";s:30:"wp_estate_menu_item_back_color";s:6:"ffffff";s:32:"wp_estate_sticky_menu_font_color";s:6:"203F49";s:28:"wp_estate_top_menu_font_size";s:2:"14";s:29:"wp_estate_menu_item_font_size";s:2:"13";s:44:"wp_estate_sidebarwidget_internal_padding_top";s:2:"15";s:45:"wp_estate_sidebarwidget_internal_padding_left";s:2:"15";s:47:"wp_estate_sidebarwidget_internal_padding_bottom";s:2:"15";s:46:"wp_estate_sidebarwidget_internal_padding_right";s:2:"15";s:36:"wp_estate_widget_sidebar_border_size";s:1:"1";s:37:"wp_estate_widget_sidebar_border_color";s:6:"dbdbdb";s:32:"wp_estate_agent_listings_per_row";s:1:"3";s:31:"wp_estate_blog_listings_per_row";s:1:"3";s:33:"wp_estate_content_area_back_color";s:3:"fff";s:42:"wp_estate_contentarea_internal_padding_top";s:2:"15";s:43:"wp_estate_contentarea_internal_padding_left";s:2:"15";s:45:"wp_estate_contentarea_internal_padding_bottom";s:2:"15";s:44:"wp_estate_contentarea_internal_padding_right";s:2:"15";s:30:"wp_estate_prop_unit_min_height";s:3:"466";s:26:"wp_estate_listings_per_row";s:1:"3";s:33:"wp_estate_show_top_bar_user_login";s:3:"yes";s:32:"wp_estate_show_top_bar_user_menu";s:2:"no";s:25:"wp_estate_currency_symbol";s:3:"USD";s:31:"wp_estate_where_currency_symbol";s:6:"before";s:21:"wp_estate_measure_sys";s:2:"ft";s:24:"wp_estate_facebook_login";s:2:"no";s:22:"wp_estate_google_login";s:2:"no";s:21:"wp_estate_yahoo_login";s:2:"no";s:21:"wp_estate_wide_status";s:1:"1";s:21:"wp_estate_header_type";s:1:"4";s:17:"wp_estate_prop_no";s:1:"6";s:27:"wp_estate_prop_image_number";s:1:"7";s:25:"wp_estate_show_empty_city";s:2:"no";s:22:"wp_estate_blog_sidebar";s:4:"left";s:27:"wp_estate_blog_sidebar_name";s:21:"secondary-widget-area";s:19:"wp_estate_blog_unit";s:4:"grid";s:26:"wp_estate_general_latitude";s:14:"-33.3580616128";s:27:"wp_estate_general_longitude";s:10:"151.171875";s:26:"wp_estate_default_map_zoom";s:1:"5";s:15:"wp_estate_cache";s:2:"no";s:35:"wp_estate_show_adv_search_map_close";s:3:"yes";s:21:"wp_estate_pin_cluster";s:3:"yes";s:22:"wp_estate_zoom_cluster";s:2:"10";s:21:"wp_estate_hq_latitude";s:9:"40.781711";s:22:"wp_estate_hq_longitude";s:10:"-73.955927";s:20:"wp_estate_idx_enable";s:2:"no";s:28:"wp_estate_geolocation_radius";s:4:"5000";s:20:"wp_estate_min_height";s:3:"600";s:20:"wp_estate_max_height";s:3:"700";s:18:"wp_estate_keep_min";s:2:"no";s:25:"wp_estate_paid_submission";s:10:"membership";s:26:"wp_estate_admin_submission";s:3:"yes";s:36:"wp_estate_admin_submission_user_role";a:3:{i:0;s:5:"Agent";i:1;s:6:"Agency";i:2;s:9:"Developer";}s:26:"wp_estate_price_submission";s:1:"1";s:35:"wp_estate_price_featured_submission";s:1:"1";s:28:"wp_estate_submission_curency";s:3:"USD";s:24:"wp_estate_free_feat_list";s:1:"5";s:35:"wp_estate_free_feat_list_expiration";s:1:"1";s:32:"wp_estate_custom_advanced_search";s:3:"yes";s:25:"wp_estate_adv_search_type";s:1:"8";s:25:"wp_estate_show_adv_search";s:3:"yes";s:18:"wp_estate_cron_run";s:10:"1412580945";s:26:"wp_estate_show_no_features";s:2:"no";s:32:"wp_estate_property_features_text";s:8:"Features";s:35:"wp_estate_property_description_text";s:11:"Description";s:31:"wp_estate_property_details_text";s:7:"Details";s:21:"wp_estate_status_list";s:44:"hot status,
+cold status,
+open house,
+sold";s:22:"wp_estate_slider_cycle";s:4:"5000";s:26:"wp_estate_show_save_search";s:3:"yes";s:22:"wp_estate_search_alert";s:1:"1";s:22:"wp_estate_color_scheme";s:2:"no";s:20:"wp_estate_main_color";s:6:"4BB4F5";s:26:"wp_estate_background_color";s:6:"edefea";s:28:"wp_estate_content_back_color";s:6:"edefea";s:26:"wp_estate_menu_items_color";s:6:"203F49";s:30:"wp_estate_sidebar_widget_color";s:6:"ffffff";s:25:"wp_estate_menu_font_color";s:6:"203F49";s:31:"wp_estate_menu_hover_back_color";s:6:"4BB3F4";s:31:"wp_estate_menu_hover_font_color";s:6:"ffffff";s:22:"wp_estate_top_bar_font";s:6:"1a171b";s:28:"wp_estate_hover_button_color";s:6:"43A1DB";s:23:"wp_estate_show_g_search";s:2:"no";s:34:"wp_estate_show_adv_search_extended";s:3:"yes";s:17:"wp_estate_readsys";s:2:"no";s:22:"wp_estate_map_max_pins";s:2:"25";s:17:"wp_estate_ssl_map";s:3:"yes";s:23:"wp_estate_enable_stripe";s:3:"yes";s:23:"wp_estate_enable_paypal";s:3:"yes";s:27:"wp_estate_enable_direct_pay";s:3:"yes";s:44:"wp_estate_global_property_page_agent_sidebar";s:3:"yes";s:33:"wp_estate_global_prpg_slider_type";s:17:"full width header";s:34:"wp_estate_global_prpg_content_type";s:4:"tabs";s:28:"wp_estate_header_transparent";s:2:"no";s:26:"wp_estate_default_map_type";s:7:"ROADMAP";s:29:"wp_estate_prices_th_separator";s:1:",";s:20:"wp_estate_multi_curr";a:2:{i:0;a:4:{i:0;s:3:"CAD";i:1;s:3:"CAD";i:2;s:3:"1.2";i:3;s:6:"before";}i:1;a:4:{i:0;s:3:"EUR";i:1;s:3:"EUR";i:2;s:4:"1.34";i:3;s:6:"before";}}s:19:"wp_estate_date_lang";s:5:"en-GB";s:29:"wp_estate_enable_autocomplete";s:3:"yes";s:36:"wp_estate_visible_user_role_dropdown";s:2:"no";s:26:"wp_estate_enable_user_pass";s:3:"yes";s:22:"wp_estate_auto_curency";s:2:"no";s:23:"wp_estate_custom_fields";a:11:{i:0;a:5:{i:0;s:3:"MLS";i:1;s:9:"Custom ID";i:2;s:10:"short text";i:3;s:1:"1";i:4;s:0:"";}i:1;a:5:{i:0;s:13:"property year";i:1;s:10:"Year Built";i:2;s:7:"numeric";i:3;s:1:"2";i:4;s:0:"";}i:2;a:5:{i:0;s:15:"property garage";i:1;s:7:"Garages";i:2;s:10:"short text";i:3;s:1:"3";i:4;s:0:"";}i:3;a:5:{i:0;s:20:"property garage size";i:1;s:11:"Garage Size";i:2;s:10:"short text";i:3;s:1:"4";i:4;s:0:"";}i:4;a:5:{i:0;s:13:"property date";i:1;s:14:"Available from";i:2;s:4:"date";i:3;s:1:"5";i:4;s:0:"";}i:5;a:5:{i:0;s:17:"property basement";i:1;s:8:"Basement";i:2;s:10:"short text";i:3;s:1:"6";i:4;s:0:"";}i:6;a:5:{i:0;s:30:"property external construction";i:1;s:21:"External Construction";i:2;s:10:"short text";i:3;s:1:"7";i:4;s:0:"";}i:7;a:5:{i:0;s:17:"Exterior Material";i:1;s:17:"Exterior Material";i:2;s:10:"short text";i:3;s:1:"8";i:4;s:0:"";}i:8;a:5:{i:0;s:16:"property roofing";i:1;s:7:"Roofing";i:2;s:10:"short text";i:3;s:1:"9";i:4;s:0:"";}i:9;a:5:{i:0;s:14:"Structure Type";i:1;s:14:"Structure Type";i:2;s:8:"dropdown";i:3;s:2:"10";i:4;s:19:"Brick, Wood, Cement";}i:10;a:5:{i:0;s:14:"stories number";i:1;s:9:"Floors No";i:2;s:8:"dropdown";i:3;s:2:"11";i:4;s:16:"1, 2, 3, 4, 5, 6";}}s:40:"wp_estate_subject_password_reset_request";s:22:"Password Reset Request";s:32:"wp_estate_password_reset_request";s:257:"Someone requested that the password be reset for the following account:
+%website_url 
+Username: %username.
+If this was a mistake, just ignore this email and nothing will happen. To reset your password, visit the following address:%reset_link,
+Thank You!";s:34:"wp_estate_subject_password_reseted";s:23:"Your Password was Reset";s:26:"wp_estate_password_reseted";s:155:"Your new password for the account at: %website_url: 
+Username:%username, 
+Password:%user_pass.
+You can now login with your new password at: %website_url";s:36:"wp_estate_subject_purchase_activated";s:27:"Your purchase was activated";s:28:"wp_estate_purchase_activated";s:83:"Hi there,
+Your purchase on  %website_url is activated! You should go check it out.";s:34:"wp_estate_subject_approved_listing";s:25:"Your listing was approved";s:26:"wp_estate_approved_listing";s:131:"Hi there,
+Your listing, %property_title was approved on  %website_url! The listing is: %property_url.
+You should go check it out.";s:35:"wp_estate_subject_new_wire_transfer";s:31:"You ordered a new Wire Transfer";s:27:"wp_estate_new_wire_transfer";s:260:"We received your Wire Transfer payment request on  %website_url !
+Please follow the instructions below in order to start submitting properties as soon as possible.
+The invoice number is: %invoice_no, Amount: %total_price. 
+Instructions:  %payment_details.
+";s:41:"wp_estate_subject_admin_new_wire_transfer";s:36:"Somebody ordered a new Wire Transfer";s:33:"wp_estate_admin_new_wire_transfer";s:207:"Hi there,
+You received a new Wire Transfer payment request on %website_url.
+The invoice number is:  %invoice_no,  Amount: %total_price.
+Please wait until the payment is made to activate the user purchase.";s:32:"wp_estate_subject_admin_new_user";s:21:"New User Registration";s:24:"wp_estate_admin_new_user";s:102:"New user registration on %website_url.
+Username: %user_login_register, 
+E-mail: %user_email_register";s:26:"wp_estate_subject_new_user";s:42:"Your username and password on %website_url";s:18:"wp_estate_new_user";s:203:"Hi there,
+Welcome to %website_url! You can login now using the below credentials:
+Username: %user_login_register
+Password: %user_pass_register
+If you have any problems, please contact me.
+Thank you!";s:39:"wp_estate_subject_admin_expired_listing";s:49:"Expired Listing sent for approval on %website_url";s:31:"wp_estate_admin_expired_listing";s:141:"Hi there,
+A user has re-submited a new property on %website_url! You should go check it out.
+This is the property title: %submission_title.";s:38:"wp_estate_subject_matching_submissions";s:36:"Matching Submissions on %website_url";s:34:"wp_estate_subject_paid_submissions";s:35:"New Paid Submission on %website_url";s:26:"wp_estate_paid_submissions";s:87:"Hi there,
+You have a new paid submission on  %website_url! You should go check it out.";s:37:"wp_estate_subject_featured_submission";s:36:"New Feature Upgrade on  %website_url";s:29:"wp_estate_featured_submission";s:91:"Hi there,
+You have a new featured submission on  %website_url! You should go check it out.";s:36:"wp_estate_subject_account_downgraded";s:34:"Account Downgraded on %website_url";s:28:"wp_estate_account_downgraded";s:302:"Hi there,
+You downgraded your subscription on %website_url. Because your listings number was greater than what the actual package offers, we set the status of all your listings to \&quot;expired\&quot;. You will need to choose which listings you want live and send them again for approval.
+Thank you!";s:38:"wp_estate_subject_membership_cancelled";s:36:"Membership Cancelled on %website_url";s:30:"wp_estate_membership_cancelled";s:236:"Hi there,
+Your subscription on %website_url was cancelled because it expired or the recurring payment from the merchant was not processed. All your listings are no longer visible for our visitors but remain in your account.
+Thank you.";s:35:"wp_estate_subject_downgrade_warning";s:45:"Membership Expiration Warning on %website_url";s:27:"wp_estate_downgrade_warning";s:155:"Hi there,
+Your subscription on %website_url will expire in 3 days.Please make sure you renew your subscription or you have enough funds for an auto renew.";s:38:"wp_estate_subject_membership_activated";s:37:" Membership Activated on %website_url";s:30:"wp_estate_membership_activated";s:88:"Hi there,
+Your new membership on %website_url is activated! You should go check it out.";s:38:"wp_estate_subject_free_listing_expired";s:36:"Free Listing expired on %website_url";s:30:"wp_estate_free_listing_expired";s:129:"Hi there,
+One of your free listings on  %website_url has \&quot;expired\&quot;. The listing is %expired_listing_url.
+Thank you!";s:40:"wp_estate_subject_new_listing_submission";s:38:"New Listing Submission on %website_url";s:32:"wp_estate_new_listing_submission";s:136:"Hi there,
+A user has submited a new property on %website_url! You should go check it out.This is the property title %new_listing_title!";s:30:"wp_estate_subject_listing_edit";s:30:"Listing Edited on %website_url";s:22:"wp_estate_listing_edit";s:142:"Hi there,
+A user has edited one of his listings  on %website_url ! You should go check it out. The property name is : %editing_listing_title!";s:35:"wp_estate_subject_recurring_payment";s:33:"Recurring Payment on %website_url";s:20:"wp_estate_custom_css";s:1167:".adv_search_tab_item.sales{
+    border: 1px solid #203F49;
+    background: #203F49;
+}
+.adv_search_tab_item.rentals{
+    border: 1px solid #B3C000;
+    background: #B3C000;
+}
+.adv_search_tab_item.active {
+    background: #4BB3F4!important;
+    color: #fff;
+    border: 1px solid #4BB3F4!important;
+}
+.adv_search_tab_item a{
+color:#fff;
+}
+.adv_search_tab_item {
+    text-transform: uppercase;
+    font-weight: 600;
+    letter-spacing: 1px;
+color:#fff;
+}
+
+.places_wrapper_type_2 .places_cover{
+border-radius:0px;
+}
+
+.unit_details_x a, .unit_details_x {
+    background-color: #b3c000;
+}
+
+.home.page .adv-search-1{
+bottom:40%;
+}
+.adv_listing_filters_head, .listing_filters_head, .listing_filters {
+    border-top: 1px solid #dfdfdf;
+    border-bottom: 1px solid #dfdfdf;
+}
+
+.submit_container {
+    background-color: #f0f2f3!important;
+}
+
+.add-estate.profile-page.profile-onprofile.row {
+    background: transparent;
+}
+
+.add-estate.profile-page.profile-onprofile.row {
+    padding-left: 0px;
+}
+
+.single-estate_property #search_wrapper{
+display:none!important;
+}
+
+#access ul.menu &gt;li&gt;a {
+    font-weight: 600;
+}";s:22:"wp_estate_company_name";s:12:"company name";s:22:"wp_estate_telephone_no";s:12:"800 800 8000";s:19:"wp_estate_mobile_no";s:12:"800 800 8000";s:16:"wp_estate_fax_ac";s:12:"800 800 8000";s:18:"wp_estate_skype_ac";s:7:"skypeid";s:20:"wp_estate_co_address";s:23:"Your Address Added Here";s:23:"wp_estate_facebook_link";s:1:"#";s:22:"wp_estate_twitter_link";s:1:"#";s:24:"wp_estate_pinterest_link";s:1:"#";s:23:"wp_estate_linkedin_link";s:1:"#";s:34:"wp_estate_global_revolution_slider";s:4:"demo";s:28:"wp_estate_repeat_footer_back";s:9:"no repeat";s:26:"wp_estate_prop_list_slider";s:1:"1";s:23:"wp_estate_agent_sidebar";s:4:"left";s:28:"wp_estate_agent_sidebar_name";s:25:"second-footer-widget-area";s:28:"wp_estate_property_list_type";s:1:"1";s:32:"wp_estate_property_list_type_adv";s:1:"1";s:19:"wp_estate_prop_unit";s:4:"grid";s:30:"wp_estate_headings_font_subset";s:8:"cyrillic";s:27:"wp_estate_copyright_message";s:20:"Buyer\&#039;s Choice";s:30:"wp_estate_show_graph_prop_page";s:3:"yes";s:19:"wp_estate_map_style";s:2006:"[
+    {
+        \"featureType\": \"administrative\",
+        \"elementType\": \"labels.text.fill\",
+        \"stylers\": [
+            {
+                \"color\": \"#444444\"
+            }
+        ]
+    },
+    {
+        \"featureType\": \"landscape\",
+        \"elementType\": \"all\",
+        \"stylers\": [
+            {
+                \"color\": \"#f2f2f2\"
+            }
+        ]
+    },
+    {
+        \"featureType\": \"landscape\",
+        \"elementType\": \"labels.text\",
+        \"stylers\": [
+            {
+                \"visibility\": \"on\"
+            },
+            {
+                \"hue\": \"#ff0000\"
+            }
+        ]
+    },
+    {
+        \"featureType\": \"poi\",
+        \"elementType\": \"all\",
+        \"stylers\": [
+            {
+                \"visibility\": \"off\"
+            }
+        ]
+    },
+    {
+        \"featureType\": \"road\",
+        \"elementType\": \"all\",
+        \"stylers\": [
+            {
+                \"saturation\": -100
+            },
+            {
+                \"lightness\": 45
+            }
+        ]
+    },
+    {
+        \"featureType\": \"road.highway\",
+        \"elementType\": \"all\",
+        \"stylers\": [
+            {
+                \"visibility\": \"simplified\"
+            }
+        ]
+    },
+    {
+        \"featureType\": \"road.arterial\",
+        \"elementType\": \"labels.icon\",
+        \"stylers\": [
+            {
+                \"visibility\": \"off\"
+            }
+        ]
+    },
+    {
+        \"featureType\": \"transit\",
+        \"elementType\": \"all\",
+        \"stylers\": [
+            {
+                \"visibility\": \"off\"
+            }
+        ]
+    },
+    {
+        \"featureType\": \"water\",
+        \"elementType\": \"all\",
+        \"stylers\": [
+            {
+                \"color\": \"#7FCAF1\"
+            },
+            {
+                \"visibility\": \"on\"
+            }
+        ]
+    }
+]";s:27:"wp_estate_free_mem_list_unl";s:1:"1";s:25:"wp_estate_adv_search_what";a:6:{i:0;s:10:"categories";i:1;s:6:"cities";i:2;s:5:"areas";i:3;s:7:"keyword";i:4;s:17:"property bedrooms";i:5;s:14:"property price";}s:24:"wp_estate_adv_search_how";a:6:{i:0;s:4:"like";i:1;s:4:"like";i:2;s:4:"like";i:3;s:4:"like";i:4;s:7:"greater";i:5;s:7:"greater";}s:26:"wp_estate_adv_search_label";a:6:{i:0;s:0:"";i:1;s:0:"";i:2;s:0:"";i:3;s:7:"Keyword";i:4;s:9:"Min. Beds";i:5;s:0:"";}s:32:"wp_estate_show_adv_search_slider";s:3:"yes";s:33:"wp_estate_show_adv_search_visible";s:3:"yes";s:27:"wp_estate_show_slider_price";s:3:"yes";s:24:"wp_estate_show_dropdowns";s:3:"yes";s:31:"wp_estate_show_slider_max_price";s:7:"1000000";s:22:"wp_estate_feature_list";s:289:"attic,
+gas heat,
+ocean view,
+wine cellar,
+basketball court,
+gym,
+pound,
+fireplace,
+lake view,
+pool,
+back yard,
+front yard,
+fenced yard,
+sprinklers,
+washer and dryer,
+deck,
+balcony,
+laundry,
+concierge,
+doorman,
+private space,
+storage,
+recreation,
+Roof Deck,
+internet";s:26:"wp_estate_advanced_exteded";a:9:{i:0;s:4:"none";i:1;s:9:"back_yard";i:2;s:10:"front_yard";i:3;s:11:"fenced_yard";i:4;s:10:"sprinklers";i:5;s:7:"doorman";i:6;s:13:"private_space";i:7;s:7:"storage";i:8;s:10:"recreation";}s:27:"wp_estate_property_adr_text";s:7:"Address";s:20:"wp_estate_new_status";s:28:"type here the new status... ";s:22:"wp_estate_theme_slider";a:12:{i:0;s:3:"111";i:1;s:2:"72";i:2;i:72;i:3;i:111;i:4;i:72;i:5;i:111;i:6;i:72;i:7;i:111;i:8;i:72;i:9;i:111;i:10;i:111;i:11;i:72;}s:20:"wp_estate_use_mimify";s:2:"no";s:29:"wp_estate_currency_label_main";s:3:"USD";s:21:"wp_estate_wide_footer";s:2:"no";s:21:"wp_estate_show_footer";s:3:"yes";s:26:"wp_estate_show_footer_copy";s:3:"yes";s:21:"wp_estate_footer_type";s:1:"8";s:26:"wp_estate_logo_header_type";s:5:"type1";s:21:"wp_estate_wide_header";s:2:"no";s:27:"wp_estate_logo_header_align";s:6:"center";s:27:"wp_estate_text_header_align";s:4:"left";s:25:"wp_estate_general_country";s:9:"Australia";}s:6:"wp_css";s:0:"";}
